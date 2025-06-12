@@ -1,3 +1,19 @@
+# مشروع react // جدول بيانات الطلاب
+
+# محتوى المشروع
+عرض اسماء الطلاب , مستواهم الدراسي ,المعدل
+امكانية التصفية حسب المستوى الدراسي
+
+# الادوات المستخدمة
+react
+java script
+html/css
+
+
+# العرض المباشر للموقع 
+[https://shahdSaqer.github.io/projectss]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
